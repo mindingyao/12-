@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/11/1 23:37:10。
+     1>项目“D:\VSc语言程序\12个顺序表基本操作\12个顺序表基本操作\12个顺序表基本操作.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\12个顺序表基本操作.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VSc语言程序\12个顺序表基本操作\Debug\12个顺序表基本操作.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VSc语言程序\12个顺序表基本操作\Debug\12个顺序表基本操作.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VSc语言程序\12个顺序表基本操作\Debug\12个顺序表基本操作.lib" /MACHINE:X86 "Debug\源.obj"
+         12个顺序表基本操作.vcxproj -> D:\VSc语言程序\12个顺序表基本操作\Debug\12个顺序表基本操作.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\12个顺序表基本操作.unsuccessfulbuild”。
+         正在对“Debug\12个顺序表基本操作.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\VSc语言程序\12个顺序表基本操作\12个顺序表基本操作\12个顺序表基本操作.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.88
